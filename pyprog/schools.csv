@@ -1,0 +1,110 @@
+School ID,Name,School Type,Audit Date,Location 1,Location 2,Location 3,Location Type,Female Students,Male Students,ProjectID
+CES0001,Mazabuka Primary,Primary,17/03/2016,Mazabuka,Southern,Zambia,Urban,1046,919,CEP0004
+CES0002,Nahumba,Primary,17/03/2016,Choma,Southern,Zambia,Urban,600,400,CEP0004
+CES0003,Adastra,Secondary,16/03/2016,Choma,Southern,Zambia,Urban,728,661,CEP0004
+CES0004,Choma Day,Secondary,16/03/2016,Choma,Southern,Zambia,Urban,731,615,CEP0004
+CES0005,St Patricks,Integrated,16/03/2016,Choma,Southern,Zambia,Peri Urban,393,403,CEP0004
+CES0006,Linda Community,Integrated,06/04/2016,Lusaka,Lusaka,Zambia,Peri Urban,728,665,CEP0004
+CES0007,Riverrain,Primary,06/04/2016,Kitwe,Copperbelt,Zambia,Urban,700,900,CEP0004
+CES0008,Mufulira Central,Primary,06/04/2016,Mufulira,Copperbelt,Zambia,Urban,557,457,CEP0004
+CES0009,Kayele,Integrated,05/04/2016,Ndola,Copperbelt,Zambia,Urban,944,944,CEP0004
+CES0010,Kamwala South,Integrated,05/04/2016,Lusaka,Lusaka,Zambia,Urban,1259,1236,CEP0004
+CES0011,Kamulanga Secondary,Secondary,06/04/2016,Lusaka,Lusaka,Zambia,Peri Urban,557,617,CEP0004
+CES0012,Mwembeshi,Secondary,07/04/2016,Chilanga,Lusaka,Zambia,Rural,404,400,CEP0004
+CES0013,Ibex Hill,Integrated,07/04/2016,Lusaka,Lusaka,Zambia,Urban,549,397,CEP0004
+CES0014,Chawama,Primary,08/04/2016,Lusaka,Lusaka,Zambia,Urban,1910,1729,CEP0004
+CES0015,South End,Primary,08/04/2016,Lusaka,Lusaka,Zambia,Urban,300,320,CEP0004
+CES0016,Mukandawire,Primary,08/04/2016,Lusaka,Lusaka,Zambia,Urban,374,284,CEP0004
+CES0017,Lotus,Secondary,08/04/2016,Lusaka,Lusaka,Zambia,Urban,1100,1400,CEP0004
+CES0018,First Rate,Secondary,08/04/2016,Lusaka,Lusaka,Zambia,Urban,5,5,CEP0004
+CES0019,Craw Hammer,Integrated,08/04/2016,Chingola,Copperbelt,Zambia,Urban,13,91,CEP0004
+CES0020,Mujoko,Primary,08/04/2016,Luanshya,Copperbelt,Zambia,Urban,233,151,CEP0004
+CES0021,Kitwe Boys,Integrated,08/04/2016,Kitwe,Copperbelt,Zambia,Urban,2600,230,CEP0004
+CES0022,Sebeta Special,Primary,29/04/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,117,168,CEP0005
+CES0023,Dima Prep,Primary,29/04/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,517,507,CEP0005
+CES0024,Tegi Primary,Primary,29/04/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,1452,1416,CEP0005
+CES0025,Gefersa Burayu Primary,Primary,29/04/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,1618,956,CEP0005
+CES0026,Dhaka,Primary,29/04/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,455,489,CEP0005
+CES0027,Bole Primary,Primary,04/05/2017,Oromia Special,Oromia,Ethiopia,Peri Urban,1827,1256,CEP0005
+CES0028,Dabel Primary,Primary,24/04/2017,Zone 3,Afar,Ethiopia,Rural,262,266,CEP0005
+CES0029,Gefram Secondary,Secondary,29/04/2017,Zone 3,Afar,Ethiopia,Rural,52,110,CEP0005
+CES0030,Gefram Primary,Primary,29/04/2017,Zone 3,Afar,Ethiopia,Rural,105,125,CEP0005
+CES0031,Chamo Sec Prep,Secondary,24/04/2017,Gamo Gofa,Snnpr,Ethiopia,Urban,974,1032,CEP0005
+CES0032,Abaya Sec,Secondary,24/04/2017,Gamo Gofa,Snnpr,Ethiopia,Urban,804,774,CEP0005
+CES0033,Arbaminch Primary,Primary,24/04/2017,Gamo Gofa,Snnpr,Ethiopia,Urban,119,105,CEP0005
+CES0034,Kolashelle Secondary,Secondary,25/04/2017,Gamo Gofa,Snnpr,Ethiopia,Rural,304,406,CEP0005
+CES0035,Arba Minch Sec Prep,Secondary,25/04/2017,Gamo Gofa,Snnpr,Ethiopia,Urban,1470,1600,CEP0005
+CES0036,Sodo Sec,Secondary,26/04/2017,Wolayta,Snnpr,Ethiopia,Urban,1200,1055,CEP0005
+CES0037,Sodo Kelem,Secondary,27/04/2017,Wolayta,Snnpr,Ethiopia,Urban,2355,2370,CEP0005
+CES0038,Boditi Sec,Secondary,04/05/2017,Wolayta,Snnpr,Ethiopia,Rural,2053,2171,CEP0005
+CES0039,Abba Pascal,Primary,04/05/2017,Wolayta,Snnpr,Ethiopia,Rural,1136,0,CEP0005
+CES0040,Debre Primary,Primary,04/05/2017,East Gojam,Amhara,Ethiopia,Rural,819,732,CEP0005
+CES0041,Kuy Primary,Primary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,1149,1076,CEP0005
+CES0042,Angech Primay,Primary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,273,307,CEP0005
+CES0043,Yedama Prep,Primary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,350,380,CEP0005
+CES0044,Felege Sec Prep,Secondary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,1143,982,CEP0005
+CES0045,Felege Primary,Primary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,887,822,CEP0005
+CES0046,Bahir Seged Primary,Primary,02/05/2017,East Gojam,Amhara,Ethiopia,Rural,320,337,CEP0005
+CES0047,Kuami Primary,Primary,03/05/2017,East Gojam,Amhara,Ethiopia,Rural,622,694,CEP0005
+CES0048,Bahire Georgis Secondary,Secondary,03/05/2017,East Gojam,Amhara,Ethiopia,Rural,2078,1965,CEP0005
+CES0049,Kuy Prep,Secondary,03/05/2017,East Gojam,Amhara,Ethiopia,Rural,1378,1356,CEP0005
+CES0050,Debre Secondary,Secondary,03/05/2017,East Gojam,Amhara,Ethiopia,Rural,1710,1536,CEP0005
+CES0051,Reginald A,Secondary,24/05/2016,Kilimanjaro,Kilimanjaro,Tanzania,Urban,443,316,CEP0007
+CES0052,Eden,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Rural,51,85,CEP0007
+CES0053,Reginald B,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Urban,324,335,CEP0007
+CES0054,Kidia,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Rural,49,54,CEP0007
+CES0055,Balangdalalu,Secondary,14/06/2016,Manyara,Manyara,Tanzania,Rural,184,264,CEP0007
+CES0056,Msasani,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Urban,357,354,CEP0007
+CES0057,Anna Mkapa,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Urban,440,414,CEP0007
+CES0058,Maringeni,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Rural,116,99,CEP0007
+CES0059,Msaranga,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Urban,303,281,CEP0007
+CES0060,Endasak,Secondary,14/06/2016,Manyara,Manyara,Tanzania,Rural,224,176,CEP0007
+CES0061,Masakia,Secondary,14/06/2016,Manyara,Manyara,Tanzania,Rural,74,59,CEP0007
+CES0062,Gitting,Secondary,14/06/2016,Manyara,Manyara,Tanzania,Rural,165,104,CEP0007
+CES0063,Bassotu,Secondary,14/06/2016,Manyara,Manyara,Tanzania,Rural,156,136,CEP0007
+CES0064,Mawela,Secondary,14/06/2016,Kilimanjaro,Kilimanjaro,Tanzania,Rural,204,192,CEP0007
+CES0065,Mwana Kwerekwe,Primary,17/10/2015,Mwana Kwerekwe,Zanzibar West District,Tanzania,Urban,926,876,CEP0006
+CES0066,Regeza Mwendo,Primary,30/10/2015,Regeza Mwendo,Mjini Maharibi,Tanzania,Urban,1200,774,CEP0006
+CES0067,Kidongo chekundu,Primary,30/09/2015,Jang'ombe,Jan'gombe,Tanzania,Urban,644,686,CEP0006
+CES0068,Mwanakwerekwe,Primary,30/10/2015,Shehia ya Mwanakwerekwe,Zanzibar,Tanzania,Urban,802,826,CEP0006
+CES0069,Bububu,Primary,03/11/2015,Shehia ya Bububu,Shehia ya Bububu,Tanzania,Urban,1350,1181,CEP0006
+CES0070,Magogoni,Primary,30/09/2015,Mjini magharibi,Mjini magharibi,Tanzania,Urban,1253,1184,CEP0006
+CES0071,Kilimahewa,Primary,29/10/2015,Kilimahewa,Amani,Tanzania,Urban,1508,1508,CEP0006
+CES0072,Kiembe Samaki,Primary,30/10/2015,Kiembe Samaki,Kiembe Samaki,Tanzania,Urban,542,513,CEP0006
+CES0073,Darajani,Primary,30/09/2015,Zanzibar,Zanzibar,Tanzania,Urban,635,605,CEP0006
+CES0074,Mwembe Makumbi,Primary,31/10/2015,Mwembe Makumbi,Zanzibar,Tanzania,Urban,894,797,CEP0006
+CES0075,Kidumu,Primary,13/05/2016,Kwale,Kwale,Kenya,Rural,151,192,CEP0011
+CES0076,Mwarakaya,Secondary,16/05/2016,Kilifi,Kilifi,Kenya,Rural,102,213,CEP0011
+CES0077,Kag,Primary,19/05/2016,Kwale,Kwale,Kenya,Rural,151,138,CEP0011
+CES0078,Burhaniya A,Primary,19/05/2016,Mombasa,Mombasa,Kenya,Urban,206,245,CEP0011
+CES0079,Utange,Primary,10/05/2016,Mombasa,Mombasa,Kenya,Peri Urban,290,200,CEP0011
+CES0080,Sineno,Primary,10/05/2016,Mombasa,Mombasa,Kenya,Peri Urban,37,33,CEP0011
+CES0081,Kencada,Primary,10/05/2016,Mombasa,Mombasa,Kenya,Peri Urban,40,50,CEP0011
+CES0082,Burhaniya B,Primary,28/04/2016,Mombasa,Mombasa,Kenya,Urban,216,205,CEP0011
+CES0083,Good Life,Primary,11/05/2016,Kilifi,Kilifi,Kenya,Rural,112,122,CEP0011
+CES0084,Tononoka,Secondary,11/05/2016,Mombasa,Mombasa,Kenya,Urban,485,0,CEP0011
+CES0085,Liwatoni,Primary,11/05/2016,Mombasa,Mombasa,Kenya,Urban,50,51,CEP0008
+CES0086,Serani,Primary,11/05/2016,Mombasa,Mombasa,Kenya,Urban,412,0,CEP0008
+CES0087,Star Of Thesea,Primary,11/05/2016,Mombasa,Mombasa,Kenya,Urban,0,1026,CEP0008
+CES0088,Takaungu,Primary,12/05/2016,Kilifi,Kilifi,Kenya,Rural,308,294,CEP0008
+CES0089,Qadiriya,Primary,10/05/2016,Mombasa,Mombasa,Kenya,Urban,242,238,CEP0008
+CES0090,Kwale,Primary,11/05/2016,Kwale,Kwale,Kenya,Urban,421,650,CEP0008
+CES0091,New Shamy,Primary,11/05/2016,Mombasa,Mombasa,Kenya,Urban,200,100,CEP0008
+CES0092,Kp,Secondary,12/05/2016,Kilifi,Kilifi,Kenya,Peri Urban,308,374,CEP0008
+CES0093,Shimo La,Secondary,12/05/2016,Mombasa,Mombasa,Kenya,Peri Urban,935,0,CEP0008
+CES0094,Ruai A,Primary,16/05/2016,Nairobi,Nairobi,Kenya,Peri Urban,601,562,CEP0008
+CES0095,Ruai B,Primary,14/05/2016,Bungoma,Bungoma,Kenya,Rural,150,100,CEP0008
+CES0096,Wamalwa,Secondary,13/05/2016,Bungoma,Bungoma,Kenya,Peri Urban,231,247,CEP0008
+CES0097,St Elizabeth,Integrated,17/05/2016,Nairobi,Nairobi,Kenya,Urban,785,741,CEP0008
+CES0098,Kavia,Secondary,16/05/2016,Makueni,Makueni,Kenya,Rural,89,92,CEP0008
+CES0099,Mtepeni,Secondary,16/05/2016,Kilifi,Kilifi,Kenya,Rural,42,85,CEP0008
+CES0100,Kilili,Primary,16/05/2016,Makueni,Makueni,Kenya,Rural,130,174,CEP0008
+CES0101,Cromcastle Green,Primary,02/12/2015,Artane,Dublin,Ireland,Urban,,,CEP0003
+CES0102,St Marys,Primary,02/12/2015,Haddington Road,Dublin,Ireland,Urban,,,CEP0003
+CES0103,Gaelscoil Bharra,Primary,26/01/2016,Cabra,Dublin,Ireland,Urban,,,CEP0003
+CES0104,St Brigids,Primary,02/03/2016,Clondalkin,Dublin,Ireland,Urban,,,CEP0003
+CES0105,St Aidans,Primary,07/12/2016,Tallaght,Dublin,Ireland,Urban,,,CEP0003
+CES0106,St. Patricks,Primary,05/12/2016,Chapelizod,Dublin,Ireland,Urban,,,CEP0003
+CES0107,Mercy,Secondary,03/02/2017,Inchicore,Dublin,Ireland,Urban,,,CEP0003
+CES0108,Mater Dei,Primary,10/02/2017,James Steet,Dublin,Ireland,Urban,,,CEP0003
+CES0109,St Macartan's ,Secondary,02/05/2017,Mullamurphy,Monaghan,Ireland,Rural,,,CEP0003

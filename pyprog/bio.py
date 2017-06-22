@@ -1,0 +1,15 @@
+my_name =  raw_input("Enter a name:")
+my_age = input("Enter age: ")
+my_height = input("Enter height: ")
+my_weight = input("Enter weight: ")
+my_eyes =  raw_input("Enter a eye colour: ")
+my_teeth =  raw_input("Enter teeth colour: ")
+my_hair =  raw_input("Enter a hair colour: ")
+
+print "Let's talk about %s." % (my_name)
+print "He's %dcm tall." % (my_height)
+print "He weighs %dkg." % (my_weight)
+print "Actually, that's not too heavy."
+print "He's got %s eyes and %s hair." % (my_eyes, my_hair)
+print "His teeth are usually %s, depending on the coffee." % (my_teeth)
+print "If I were %d years old, weighed %dkg, was %dcm tall and I'd have a bio score of %d" % (my_age, my_weight, my_height, my_age+my_weight+my_height)
