@@ -21,6 +21,9 @@ class TestSpellChecker(unittest.TestCase):
         self.assertEquals(2, len(failed_words))
         self.assertEquals('mistasdas', failed_words[0])
         self.assertEquals('spelllleeeing', failed_words[1])
+        # fix the 21 issues of words not matching the dictionary
+        self.assertEqual(0, len(self.spellChecker.check_document('spell.words.txt')))
+
 
 
 
