@@ -1,0 +1,41 @@
+ID,Make,Model,Type,Colour,Registration,Odometer,Fuel %,Condition,Available
+1,Toyota,Corola,Petrol,Grey,162-D-21609,59545,100,Undamaged,True
+2,Toyota,Corola,Petrol,Black,162-D-21610,59916,100,Undamaged,True
+3,Toyota,Corola,Petrol,White,162-D-21611,49489,100,Undamaged,True
+4,Kia ,Sportage,Petrol,Red,152-D-33119,84149,100,Undamaged,True
+5,Kia ,Sportage,Petrol,Grey,152-D-33120,98282,100,Undamaged,True
+6,Kia ,Sportage,Petrol,Black,152-D-33121,96017,100,Undamaged,True
+7,Volkswagon,Golf,Petrol,Blue,132-D-62165,178177,100,Undamaged,True
+8,Volkswagon,Golf,Petrol,Silver,132-D-62166,170691,100,Undamaged,True
+9,Volkswagon,Golf,Petrol,Black,132-D-62167,164071,100,Undamaged,True
+10,Volkswagon,Golf,Petrol,White,132-D-62168,169117,100,Undamaged,True
+11,Ford ,Focus,Petrol,Red,151-D-61220,119507,100,Undamaged,True
+12,Ford ,Focus,Petrol,Blue,151-D-61221,100528,100,Damaged,True
+13,Ford ,Focus,Petrol,Blue,151-D-61222,113105,100,Undamaged,True
+14,Renault,Clio,Petrol,Red,142-D-87743,139710,100,Undamaged,True
+15,Renault,Clio,Petrol,Red,142-D-87744,138714,100,Undamaged,True
+16,Ford ,Fiesta,Petrol,Blue,161-D-26848,71774,100,Undamaged,True
+17,Ford ,Fiesta,Petrol,Red,161-D-26849,64197,100,Undamaged,True
+18,Toyota,Yaris,Petrol,Red,171-D-1874,26508,100,Undamaged,True
+19,Toyota,Yaris,Petrol,Orange,142-D-51689,136876,100,Undamaged,True
+20,Toyota,Yaris,Petrol,Orange,142-D-51690,131737,100,Undamaged,True
+21,Skoda,Octavia,Diesel,Maroon,151-D-88,101994,100,Undamaged,True
+22,Skoda,Octavia,Diesel,Black,151-D-89,116093,100,Undamaged,True
+23,Mercedes,C Class,Diesel,Navy,162-D-8881,48200,100,Undamaged,True
+24,Hyundai,Tucson,Diesel,Black,142-D-22169,137151,100,Undamaged,True
+25,Nissan,Qashqai,Diesel,Black,152-D-93108,95510,100,Undamaged,True
+26,Nissan,Qashqai,Diesel,White,152-D-93109,99447,100,Undamaged,True
+27,Hyundai,Tucson,Diesel,Red,141-D-80585,150046,100,Undamaged,True
+28,Hyundai,Tucson,Diesel,Orange,141-D-80586,153738,100,Damaged,True
+29,Toyota,Prius,Hybrid,White,141-D-27426,154437,100,Undamaged,True
+30,Toyota,Prius,Hybrid,Blue,141-D-27427,144475,100,Undamaged,True
+31,Toyota,Prius,Hybrid,Black,141-D-27428,150615,100,Undamaged,True
+32,Toyota,Prius,Hybrid,Black,141-D-27429,151327,100,Undamaged,True
+33,Ford,Fusion,Hybrid,Red,171-D-1875,39030,100,Undamaged,True
+34,Ford,Fusion,Hybrid,Blue,171-D-1876,38546,100,Undamaged,True
+35,Lexus,CT 200h,Hybrid,Silver,162-D-12558,55671,100,Undamaged,True
+36,Hyundai,Sonata,Hybrid,Silver,162-D-64872,40283,100,Undamaged,True
+37,Nissan,Leaf,Electric,White,151-D-48768,108856,100,Undamaged,True
+38,Nissan,Leaf,Electric,White,151-D-48769,116320,100,Undamaged,True
+39,Tesla,Model 3,Electric,Black,172-D-404,4592,100,Undamaged,True
+40,Tesla,Model 3,Electric,Red,172-D-405,4696,100,Undamaged,True
