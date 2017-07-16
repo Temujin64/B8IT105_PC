@@ -221,12 +221,14 @@ class Dealership(object):
 					print "\nDon't worry, the car was damaged when you got it!"
 				elif damage == 'y' and self.car_list[answer].getCondition() == 'Undamaged':
 					self.user_damage = True
+					carsdf.ix[(answer+1), 'Condition'] = 'Damaged'
 					print "\nYou damaged the car! You'll pay for this... literally."
 				elif damage == 'n' and self.car_list[answer].getCondition() == 'Undamaged':
 					self.user_damage = False
 					print "\nYou returned the car without any damage, thanks!"
 				elif damage == 'n' and self.car_list[answer].getCondition() == 'Damaged':
 					self.user_damage = False
+					carsdf.ix[(answer+1), 'Condition'] = 'Undamaged'
 					print "\nIt appears as though you fixed the car for us, thanks!"
 					print "\nBut if you're lying about the damange, don't worry, it was there before.\n"
 			#This gives the user the option to exit the loop.	
