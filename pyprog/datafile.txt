@@ -1,4 +1,0 @@
-Eoin,Meehan,Dublin,112233
-Fred,Bloggs,Cavan,334455
-Joe,Smyth,Cork,667788
-Ann,Murphy,Galway,999999
